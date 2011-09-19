@@ -6,4 +6,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require underscore
+//= require backbone
+//= require raphael-min
 //= require_tree .
