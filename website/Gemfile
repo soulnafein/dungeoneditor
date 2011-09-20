@@ -17,7 +17,22 @@ group :assets do
   gem 'haml-rails'
 end
 
+# JavasScript libs
 gem 'jquery-rails'
+gem 'modernizr-rails'
+
+# Stylesheet libs
+# gem 'blueprint-rails'
+
+# Ajax request CoffeeScript support
+# gem 'coffeebeans'
+
+# Heroku deployment requirements
+# group :production do
+#   gem 'therubyracer-heroku'
+#   gem 'pg'
+# end
+
 gem 'rails-backbone'
 
 group :test do
